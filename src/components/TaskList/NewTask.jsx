@@ -3,7 +3,9 @@ import React from 'react'
 function NewTask() {
   return (
     <div>
-      new Task
+      <>
+      <Login />
+      </>
     </div>
   )
 }
